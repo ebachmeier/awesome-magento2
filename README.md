@@ -22,8 +22,8 @@
 
 ## Table of Contents
 
-- [What is Magento?](#magento)
-- [Events](#events)
+- [What is Magento?](#what-is-magento)
+- [Events](#events-meet-the-community)
 - [Frontends](#frontends)
 - [Tools](#tools)
 - [Open Source Extensions](#open-source-extensions)
